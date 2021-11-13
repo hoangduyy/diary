@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+    <string name="my_diary">My Diary</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="search_content">Search content</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="are_you_sure_you_want_to_delete_this_diary">Are you sure you want to delete this diary?</string>
+    <string name="delete">DELETE</string>
+    <string name="delete_diary">Delete diary</string>
+    <string name="delete_this_diary">Delete this Diary</string>
+    <string name="how_is_your_day">How is your day?</string>
+    <string name="done">Done</string>
+</resources>
